@@ -3,8 +3,8 @@ Chapter 12: Plywood
 ===================
 
 
-12.1 Definition
-===============
+Definition
+==========
 
 Plywood is a glued wood panel where several thin layers of wood or veneer or plies are cemented together. Wood veneers are thin slices or sheets of quality woods like teak. The outer plies are called faces, the inner plies are called cores and the plies just below the faces (both front and back face) are called crossbands. Lumber, veneer or particleboard can be used as the core. The plywood varies based on thickness, species, grade of wood and number of plies used. The quality of plywood depends upon the glue used, quality of different layer of veneer, the order of layer placement in the panel and the control of gluing condition during gluing process.
 
@@ -28,8 +28,8 @@ Plywood are used mainly in furniture construction, doors and windows, flooring a
 |
 
 
-12.2 Types
-==========
+Types
+=====
 
 There are numerous ways in which plywood is classified and these classifications are based on various aspects of plywood such as wood used, the number of piles it has, suitability for indoor and outdoor use and grading. 
 Two types of plywood based on wood are as follows:
@@ -55,8 +55,8 @@ Generally, softwood plywood is used for constructional and industrial uses where
 
 
 
-12.3 Sanding
-============
+Sanding
+=======
 
 Sanding is the process of making rough plywood surface into smooth or polish surface by rubbing it with sandpaper or a mechanical sander. To give appearance of real wood you need to apply protective polyurethane or stain the plywood. But sanding of plywood to obtain smooth surface is necessary before you proceed for coating.
 Follow the following steps to sand the plywood:
@@ -79,8 +79,8 @@ Follow the following steps to sand the plywood:
 |
 |
 
-12.4 Properties of plywood
-==========================
+Properties of plywood
+=====================
 
 Some properties of plywood are as follows:
 
