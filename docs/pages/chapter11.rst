@@ -2,8 +2,8 @@
 Chapter 11: Simple and Complicated Wood joints
 ==============================================
 
-11.1 Definition and purpose
-===========================
+Definition and purpose
+======================
 
 A wood joint is a point in a wooden structure where components of structure are connected. The joints in wooden workpiece are made with the help of dowels, nuts, bolts, screws etc. Joints can be simple and complicated based on requirement.
 
@@ -21,8 +21,8 @@ The main function of wood joints are as follows:
 |
 |
 
-11.2 Types of joints 
-====================
+Types of joints 
+===============
 
 In order to obtain a successful design, you need to know the right woodworking joint and know how to make that joint in a right way. There are different types of joints available in carpentry work and they are:
    
@@ -48,8 +48,8 @@ In order to obtain a successful design, you need to know the right woodworking j
 |
 
 
-11.3 Miscellaneous joints
-=========================
+Miscellaneous joints
+====================
 
 1) Cross half lap joint
 -----------------------
@@ -102,8 +102,8 @@ In order to obtain a successful design, you need to know the right woodworking j
 |
 
 
-11.4 Types of beam hangers
-==========================
+Types of beam hangers
+=====================
 
 A beam is made of solid lumber one or more pieces usually placed horizontally to the ground. Joists are the lumber pieces attached to beam in order to frame the structure and also to handle pressure. Beam hangers are used to attach joists with a beam in any structural construction. Sometimes, beam hangers are also known by joist hangers. 
     
@@ -142,8 +142,8 @@ A beam is made of solid lumber one or more pieces usually placed horizontally to
 
 
 
-11.5 Use of gusset plates in framing of frame construction
-==========================================================
+Use of gusset plates in framing of frame construction
+=====================================================
 
 Gusset plates are made of wood, metal or steel which is used to connect beams and griders to column. Wood gusset are used for wooden truss constructional works and they are generally made of plywood. Similarly, steel gusset is used in steel structural buildings and in wood beam construction. 
 
@@ -165,8 +165,8 @@ Gusset plates are used mostly in framing of frame construction.
 
 
 
-11.6 Uses and application of:
-=============================
+Uses and application of:
+========================
 
 1)  Lengthening joint
 ---------------------
