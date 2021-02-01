@@ -9,6 +9,6 @@ Carpentry Book for all
   :alt: Documentation Status
 
 
-You can read book visiting the `url <http://plumbing-book.rtfd.io/>`_ :
+You can read book visiting the `url <http://carpentry-book.rtfd.io/>`_ :
 
-http://plumbing-book.rtfd.io
+http://carpentry-book.rtfd.io/
